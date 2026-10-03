@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bellivada-pavan-personal-website.vercel.app/sitemap.xml
